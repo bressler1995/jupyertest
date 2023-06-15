@@ -1,4 +1,4 @@
-# Conferences with TOPS for a Year of Open Science (Preview)
+# Year of Open Science Conference Participation (Preview)
 
 With NASA declaring 2023 as the Year of Open Science, the TOPS team will be participating in conferences across the nation (and internationally) to encourage the wider scientific community to join us in promoting, strengthening, and engaging with open science.
 
